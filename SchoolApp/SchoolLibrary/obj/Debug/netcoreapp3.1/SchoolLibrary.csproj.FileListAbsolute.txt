@@ -1,0 +1,8 @@
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.deps.json
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.dll
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/bin/Debug/netcoreapp3.1/SchoolLibrary.pdb
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.csprojAssemblyReference.cache
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.AssemblyInfoInputs.cache
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.AssemblyInfo.cs
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.dll
+/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/Debug/netcoreapp3.1/SchoolLibrary.pdb
