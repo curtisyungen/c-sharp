@@ -6896,11 +6896,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTrainingTests/EssentialTrainingTests.csproj",
+      "projectUniqueName": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingTests/EssentialTrainingTests.csproj",
       "projectName": "EssentialTrainingTests",
-      "projectPath": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTrainingTests/EssentialTrainingTests.csproj",
+      "projectPath": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingTests/EssentialTrainingTests.csproj",
       "packagesPath": "/Users/curtisyungen/.nuget/packages/",
-      "outputPath": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTrainingTests/obj/",
+      "outputPath": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/curtisyungen/.config/NuGet/NuGet.Config"
@@ -6914,8 +6914,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {
-              "projectPath": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj"
+            "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {
+              "projectPath": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj"
             }
           }
         }

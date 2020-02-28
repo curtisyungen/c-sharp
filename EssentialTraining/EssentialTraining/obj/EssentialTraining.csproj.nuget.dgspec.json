@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {}
+    "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {}
   },
   "projects": {
-    "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {
+    "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
+        "projectUniqueName": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
         "projectName": "EssentialTraining",
-        "projectPath": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
+        "projectPath": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
         "packagesPath": "/Users/curtisyungen/.nuget/packages/",
-        "outputPath": "/Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/obj/",
+        "outputPath": "/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/curtisyungen/.config/NuGet/NuGet.Config"

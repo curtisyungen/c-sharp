@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
+      "projectUniqueName": "/Users/curtisyungen/Desktop/c-sharp/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
       "projectName": "SchoolLibrary",
-      "projectPath": "/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
+      "projectPath": "/Users/curtisyungen/Desktop/c-sharp/SchoolApp/SchoolLibrary/SchoolLibrary.csproj",
       "packagesPath": "/Users/curtisyungen/.nuget/packages/",
-      "outputPath": "/Users/curtisyungen/Desktop/SchoolApp/SchoolLibrary/obj/",
+      "outputPath": "/Users/curtisyungen/Desktop/c-sharp/SchoolApp/SchoolLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/curtisyungen/.config/NuGet/NuGet.Config"

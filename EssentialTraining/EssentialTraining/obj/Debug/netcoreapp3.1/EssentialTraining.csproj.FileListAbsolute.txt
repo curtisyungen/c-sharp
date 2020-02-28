@@ -6,3 +6,8 @@
 /Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.AssemblyInfo.cs
 /Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.dll
 /Users/curtisyungen/Desktop/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.pdb
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.csprojAssemblyReference.cache
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.AssemblyInfoInputs.cache
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.AssemblyInfo.cs
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.dll
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp3.1/EssentialTraining.pdb

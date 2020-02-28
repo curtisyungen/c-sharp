@@ -3,11 +3,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SchoolApp" expanded="True">
-            <Node name="SchoolLibrary" expanded="True">
-              <Node name="ExtensionMethods.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="EssentialTraining" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
