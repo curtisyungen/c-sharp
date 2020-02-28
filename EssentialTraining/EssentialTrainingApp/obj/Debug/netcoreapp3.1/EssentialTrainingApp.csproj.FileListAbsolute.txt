@@ -1,0 +1,10 @@
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp.deps.json
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp.runtimeconfig.json
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp.runtimeconfig.dev.json
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp.dll
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/bin/Debug/netcoreapp3.1/EssentialTrainingApp.pdb
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/obj/Debug/netcoreapp3.1/EssentialTrainingApp.AssemblyInfoInputs.cache
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/obj/Debug/netcoreapp3.1/EssentialTrainingApp.AssemblyInfo.cs
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/obj/Debug/netcoreapp3.1/EssentialTrainingApp.dll
+/Users/curtisyungen/Desktop/c-sharp/EssentialTraining/EssentialTrainingApp/obj/Debug/netcoreapp3.1/EssentialTrainingApp.pdb

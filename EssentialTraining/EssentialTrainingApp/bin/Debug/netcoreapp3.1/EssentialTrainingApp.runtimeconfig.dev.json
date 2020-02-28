@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/curtisyungen/.dotnet/store/|arch|/|tfm|",
+      "/Users/curtisyungen/.nuget/packages"
+    ]
+  }
+}
