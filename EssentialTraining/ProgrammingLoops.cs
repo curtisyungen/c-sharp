@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace EssentialTraining
 {
@@ -49,5 +50,22 @@ namespace EssentialTraining
 
             return sum;
         }
+
+        public string BreakAndContinue()
+		{
+            var sb = new StringBuilder();
+            var words = new List<string> { "Bread", "Milk", "Eggs", "Cheese", "Apples" };
+
+            foreach (var word in words)
+			{
+                if (word.StartsWith("M")) continue;
+
+                if (word.StartsWith("C")) break;
+
+                sb.AppendLine(word);
+			}
+
+            return sb.ToString();
+		}
     }
 }

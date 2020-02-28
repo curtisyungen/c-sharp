@@ -1,0 +1,11 @@
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app.deps.json
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app.runtimeconfig.json
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app.runtimeconfig.dev.json
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app.dll
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/bin/Debug/netcoreapp3.1/first-console-app.pdb
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/obj/Debug/netcoreapp3.1/first-console-app.csprojAssemblyReference.cache
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/obj/Debug/netcoreapp3.1/first-console-app.AssemblyInfoInputs.cache
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/obj/Debug/netcoreapp3.1/first-console-app.AssemblyInfo.cs
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/obj/Debug/netcoreapp3.1/first-console-app.dll
+/Users/curtisyungen/Desktop/first-console-app/first-console-app/obj/Debug/netcoreapp3.1/first-console-app.pdb
