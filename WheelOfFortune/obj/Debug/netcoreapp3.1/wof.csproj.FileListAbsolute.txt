@@ -1,0 +1,11 @@
+C:\Users\v-cuyung\source\repos\wof\obj\Debug\netcoreapp3.1\wof.csprojAssemblyReference.cache
+C:\Users\v-cuyung\source\repos\wof\obj\Debug\netcoreapp3.1\wof.AssemblyInfoInputs.cache
+C:\Users\v-cuyung\source\repos\wof\obj\Debug\netcoreapp3.1\wof.AssemblyInfo.cs
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.exe
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.deps.json
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.runtimeconfig.json
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.runtimeconfig.dev.json
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.dll
+C:\Users\v-cuyung\source\repos\wof\bin\Debug\netcoreapp3.1\wof.pdb
+C:\Users\v-cuyung\source\repos\wof\obj\Debug\netcoreapp3.1\wof.dll
+C:\Users\v-cuyung\source\repos\wof\obj\Debug\netcoreapp3.1\wof.pdb
