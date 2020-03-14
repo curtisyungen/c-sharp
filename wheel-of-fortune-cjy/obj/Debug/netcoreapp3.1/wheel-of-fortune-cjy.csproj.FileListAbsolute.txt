@@ -1,0 +1,11 @@
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.exe
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.dll
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.deps.json
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.runtimeconfig.json
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.runtimeconfig.dev.json
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\bin\Debug\netcoreapp3.1\wheel-of-fortune-cjy.pdb
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\obj\Debug\netcoreapp3.1\wheel-of-fortune-cjy.AssemblyInfoInputs.cache
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\obj\Debug\netcoreapp3.1\wheel-of-fortune-cjy.AssemblyInfo.cs
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\obj\Debug\netcoreapp3.1\wheel-of-fortune-cjy.dll
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\obj\Debug\netcoreapp3.1\wheel-of-fortune-cjy.pdb
+C:\Users\v-cuyung\source\repos\wheel-of-fortune-cjy\obj\Debug\netcoreapp3.1\wheel-of-fortune-cjy.csprojAssemblyReference.cache

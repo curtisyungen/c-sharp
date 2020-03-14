@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "wheel-of-fortune-cjy/1.0.0": {
+        "runtime": {
+          "wheel-of-fortune-cjy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wheel-of-fortune-cjy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
